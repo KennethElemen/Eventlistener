@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    padding: 200PX;
+    margin: 0;
+}
+
+
+img{
+    padding: 20px;
+    height: 300px;
+    width: 300px;
+}
+
+
+.text-container {
+    display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.letter {
+    display: inline-block;
+    transform-origin: center;
+    transition: transform 0.3s ease;
+}
